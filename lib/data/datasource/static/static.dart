@@ -15,11 +15,10 @@ List<OnBoardingModel> onBoardingList = [
   OnBoardingModel(
       title: "Track Your Order",
       body:
-          "We Have a 100k Product , Choose \n Your Product From Our E-commerce Shop",
+          "We Have a 10k Product , Choose \n Your Product From Our E-commerce Shop",
       image: AppImageAsset.onBoardingImageThree),
   OnBoardingModel(
       title: "Fast Delivery",
-      body:
-          "We Have a 100k Product , Choose \n Your Product From Our E-commerce Shop",
+      body: "We Have a 100k , Choose \n Your Product From Our E-commerce Shop",
       image: AppImageAsset.onBoardingImageFour),
 ];
